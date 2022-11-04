@@ -15,16 +15,8 @@ export function App() {
         <Sidebar />
 
         <main>
-          <Post
-          author="Rafael"
-          content="Primeiro post de teste da aplicação"
-          />
-
-          <Post 
-            author="Jhon"
-            content="Segundo post de teste da aplicação"
-          />
-
+          <Post />
+          <Post />
         </main>
       </div>
     </div>
