@@ -9,9 +9,9 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://avatars.githubusercontent.com/u/72740970?v=4',
-      name: 'Rafael Boscolo',
-      role: 'Developer Web @mg'
+      avatarUrl: 'https://avatars.githubusercontent.com/diego3g',
+      name: 'Diego Fernandes',
+      role: 'CTO @Rocketseat'
     },
 
     content: [
@@ -30,9 +30,9 @@ const posts = [
   {
     id: 2 ,
     author: {
-      avatarUrl: 'https://avatars.githubusercontent.com/u/72740970?v=4',
-      name: 'Leandro Jo',
-      role: 'Educator Full Stack @mg'
+      avatarUrl: 'https://avatars.githubusercontent.com/u/6643122?v=4',
+      name: 'Mayk Brito',
+      role: 'Educator  @Rocketseat'
     },
 
     content: [
